@@ -1,0 +1,23 @@
+{
+  "name": "circularProgressButton",
+  "version": "0.1",
+  "authors": [
+    "Codrops <www.codrops.com>"
+  ],
+  "description": "A bower package for Codrop's Circular Progress Buttons.",
+  "main": "css/component.css",
+  "keywords": [
+    "progress",
+    "buttons",
+    "circular"
+  ],
+  "license": "MIT",
+  "homepage": "http://tympanus.net/codrops/2014/04/09/how-to-create-a-circular-progress-button/",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
